@@ -6,4 +6,4 @@ How to use decr3pt:
 2. Encrypt the formatted shellcode using "Encrypt shellcode.py"
 3. Insert the final payload in "Decr3pt.cpp" or cloud
 
---gschneider1911---
+---gschneider1911---
